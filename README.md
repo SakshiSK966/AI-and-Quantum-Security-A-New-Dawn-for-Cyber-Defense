@@ -50,7 +50,7 @@ AI-and-Quantum-Security-A-New-Dawn-for-Cyber-Defense
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
-   git clone https://github.com/your-username/AI-and-Quantum-Security-A-New-Dawn-for-Cyber-Defense.git
+   git clone https://github.com/SakshiSK966/AI-and-Quantum-Security-A-New-Dawn-for-Cyber-Defense/tree/main
 
 2. Go to project folder:
    cd AI-and-Quantum-Security-A-New-Dawn-for-Cyber-Defense
@@ -86,9 +86,6 @@ Artificial Intelligence and Data Science
 
 ---
 
-## 📄 License
-MIT License
 
----
 
 ⭐ Please give a star if you like this project!
